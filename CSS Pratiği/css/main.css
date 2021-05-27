@@ -1,0 +1,57 @@
+/* ****************Genel stil tanımları************** */
+body {
+  background: #e1e5ea;
+  font-family: 'Fugaz One', cursive;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+header {
+  text-align: center;
+}
+
+/* Başlık ve Pragraf */
+
+h1 {
+  color: #ba135d;
+  font-size: 2.5em;
+}
+
+h2 {
+  color: #511281;
+
+}
+
+h3 {
+  color: #cc9b6d;
+  
+}
+
+p {
+  font-size: 18px;
+}
+
+
+/* Nav menu bölümü */
+
+#nav-menu ul {
+  list-style:none;
+  margin: auto;
+  padding: 0;
+}
+
+#nav-menu  li {
+  display: inline;
+  padding: 15px;
+  
+}
+
+#nav a {
+  display: inline-block;
+}
+
+
+
+
+
+
