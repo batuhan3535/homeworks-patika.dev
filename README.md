@@ -4,3 +4,4 @@
 - Bölüm Sonu çalışmasına buradan ulaşılabilir [link](https://batuhan3535.github.io/homeworks-patika.dev/Bölüm-sonu-çalışması/index.html)
 - Google anasayfa tasarımı [link](https://batuhan3535.github.io/homeworks-patika.dev/google-anasayfa-tasarımı/index.html)
 
+- Css bölümünde 1.ödev sayfamıza makyaj yapalım tamamlandı [link](https://github.com/batuhan3535/homeworks-patika.dev/tree/main/CSS%20Prati%C4%9Fi)
