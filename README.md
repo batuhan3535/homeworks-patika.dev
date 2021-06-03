@@ -7,3 +7,5 @@
 - Css bölümünde 1.ödev sayfamıza makyaj yapalım tamamlandı [link](https://github.com/batuhan3535/homeworks-patika.dev/tree/main/CSS%20Prati%C4%9Fi)
 
 - Css bölümünde 2.ödev google anasayfası tasarımının yeni ve modern hali tamamlandı [link](https://github.com/batuhan3535/homeworks-patika.dev/tree/main/Google-yeni.tasar%C4%B1m)
+
+- Bootstrap bölümünde 1.ödev Bootstrap Özelliklerini Kullanarak Yaptığımız müzik mağaza sitesi geliştirildi [link](https://github.com/batuhan3535/homeworks-patika.dev/tree/main/M%C3%BCzikmagazas%C4%B1_bootstrap)
